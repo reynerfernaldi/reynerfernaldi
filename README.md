@@ -3,8 +3,6 @@
 <!--
 **reynerfernaldi/reynerfernaldi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
 Hiiii my name is Reyner Fernaldi and I'm a collage student of Sepuluh Nopember Insttute of Technology.
 
 - 🔭 I’m currently working on ...
