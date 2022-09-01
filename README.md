@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+🌱 I’m currently learning informatics Engineering at Institut Teknologi Sepuluh Nopember
 <!--
 **reynerfernaldi/reynerfernaldi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
