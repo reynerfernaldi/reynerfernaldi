@@ -1,9 +1,15 @@
 ### Hi there 👋
-🌱 I’m currently learning informatics Engineering at Institut Teknologi Sepuluh Nopember
+🌱 I’m currently learning informatics Engineering at Institut Teknologi Sepuluh Nopember <br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reynerfernaldi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **reynerfernaldi/reynerfernaldi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Hiiii my name is Reyner Fernaldi and I'm a collage student of Sepuluh Nopember Insttute of Technology.
+
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning informatics Engineering
