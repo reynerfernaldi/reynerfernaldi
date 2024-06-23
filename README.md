@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱 I’m currently learning informatics Engineering at Institut Teknologi Sepuluh Nopember <br>
+🌱 I’m Fresh Graduate at Institut Teknologi Sepuluh Nopember <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reynerfernaldi&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
